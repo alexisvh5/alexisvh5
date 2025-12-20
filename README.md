@@ -3,10 +3,8 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="250" align="right" />
 
 ---
-
 
 ### 🧙 Sobre mí
 
