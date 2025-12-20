@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexis Heredia 👋</h1>
+<h1 align="center">Hi, I'm Alexis Heredia <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Desarrollador Web · Enfocado en Angular & Frontend</h3>
 
 <br>
