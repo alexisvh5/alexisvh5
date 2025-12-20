@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Alexis Heredia 👋</h1>
 <h3 align="center">Desarrollador Web · Enfocado en Angular & Frontend</h3>
 
-<img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/backend-developer-illustration-download-in-svg-png-gif-file-formats--team-management-servers-data-storage-programmer-pack-design-development-illustrations-6243964.png" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/gist/..." width="300"/>
 
 ---
 
