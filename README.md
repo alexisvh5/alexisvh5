@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/backend-developer-illustration-download-in-svg-png-gif-file-formats--team-management-servers-data-storage-programmer-pack-design-development-illustrations-6243964.png" width="280">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif" width="250" align="right" />
 
 ---
 
