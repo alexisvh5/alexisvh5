@@ -54,8 +54,8 @@ Aunque me encanta el frontend (sobre todo Angular), también tengo base en backe
 
 <div align="center">
 
-![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisvh5&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisvh5&layout=compact&theme=tokyonight)
 
 </div>
 
