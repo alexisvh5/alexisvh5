@@ -53,9 +53,10 @@ Aunque me encanta el frontend (sobre todo Angular), también tengo base en backe
 ### 📊 GitHub Stats
 
 <div align="center">
+  
+![Alexis GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=alexisvh5&theme=tokyonight)
 
-![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisvh5&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisvh5&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexisvh5&theme=tokyonight)
 
 </div>
 
