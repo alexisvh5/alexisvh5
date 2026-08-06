@@ -8,9 +8,11 @@
 
 ### 🧙 Sobre mí
 
-Soy desarrollador web y estudiante de programación, muy curioso por entender cómo funcionan las cosas “por dentro” y siempre con ganas de seguir aprendiendo.
+No me interesa solamente que una aplicación funcione; me gusta entender por qué funciona.
 
-Aunque me encanta el frontend (sobre todo Angular), también tengo base en backend y bases de datos, lo que me permite entender el ciclo completo de una aplicación web.
+Disfruto investigar cómo se comunican los sistemas, cómo están diseñados y qué ocurre detrás de cada tecnología que utilizo. Me interesa el desarrollo de software, la arquitectura de sistemas y la seguridad informática como herramientas para construir soluciones más robustas y confiables.
+
+Siempre estoy aprendiendo algo nuevo y me gustan los desafíos que me obligan a investigar, experimentar y seguir creciendo profesionalmente.
 
 ---
 
