@@ -16,12 +16,11 @@ Siempre estoy aprendiendo algo nuevo y me gustan los desafíos que me obligan a 
 
 ---
 
-### 🚀 Acerca de mí
-
-- 💻 **Stack favorito:** Angular, TypeScript, HTML, CSS y consumo de APIs REST.  
-- 🌱 **Actualmente aprendiendo:** Buenas prácticas en Angular, RxJS, patrones de arquitectura, testing y optimización de apps web.  
-- 🧠 **Intereses:** UX/UI, diseño de interfaces claras, aplicaciones escalables y código limpio.  
-- 🎯 **Objetivo:** Seguir mejorando como desarrollador frontend, aportar en proyectos reales y construir productos que la gente disfrute usar.  
+🚀 Acerca de mí
+💻 Tecnologías con las que trabajo: Java, Spring Boot, Angular, TypeScript, SQL, HTML, CSS y APIs REST.
+🌱 Actualmente aprendiendo: Arquitectura de software, sistemas operativos, redes, buenas prácticas de desarrollo y seguridad informática.
+🧠 Intereses: Desarrollo backend, arquitectura de sistemas, ciberseguridad, rendimiento de aplicaciones y diseño de soluciones robustas.
+🎯 Objetivo: Seguir creciendo como profesional, participar en proyectos que representen desafíos técnicos y profundizar en el funcionamiento interno de los sistemas para desarrollar software más confiable y seguro.
 
 ---
 
